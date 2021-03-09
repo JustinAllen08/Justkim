@@ -1,0 +1,5 @@
+Sales:
+
+Shoes
+Short
+Shirt
